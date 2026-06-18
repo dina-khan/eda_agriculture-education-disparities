@@ -6,6 +6,8 @@
 
 **Data Sources:** World Bank - World Development Indicators · Education Statistics All Indicators (CC BY 4.0)
 
+📄 **[View Full Report (PDF)](report.pdf)**
+
 ---
 
 ## Research Question
